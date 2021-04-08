@@ -9,6 +9,4 @@
 <li>RUN npm i</li>
 <li>RUN reac-native run-android or RUN react-native run-ios</li>
 <ul>
-
-
-<ifram width="350px" src="https://youtu.be/taN150brCYA"/>
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/13474332/113958799-496c3580-97e7-11eb-8b8a-1054ae54eb67.gif)
