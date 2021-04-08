@@ -9,4 +9,6 @@
 <li>RUN npm i</li>
 <li>RUN reac-native run-android or RUN react-native run-ios</li>
 <ul>
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/taN150brCYA)
+[![Watch the video](https://user-images.githubusercontent.com/13474332/113959398-69502900-97e8-11eb-9f8c-141cee5003ec.PNG)](https://youtu.be/taN150brCYA)
+
+
